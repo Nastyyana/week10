@@ -1,0 +1,22 @@
+.title {
+    text-align: center;
+}
+
+.imgdiv {
+    text-align: center;
+}
+
+.buttonsdiv {
+    text-align: center;
+}
+
+.button {
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: rgb(237, 145, 145);
+}
+
+.image {
+    height: 450px;
+}
